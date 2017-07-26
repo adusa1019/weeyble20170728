@@ -3,25 +3,27 @@
 
 ---
 # About me
-
+- 
 ---
 # Summary
+- 
 
 ---
-# そもそも Neural Networkって
+# そもそも Machine Leaning って
+- 
+-
 
 +++
-# Feedforward NN
-- Autoencoder
+# そもそも Neural Network って
+
+---
+# Perceptron
 
 +++
-# Convolutional NN
-- AlexNet
-- GoogLeNet
-- ResNet
+# Feedforward Neural Network
 
 +++
-# Recurrent NN
+# Recurrent Neural Network
 - LSTM
 
 ---
