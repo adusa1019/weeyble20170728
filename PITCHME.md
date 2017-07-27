@@ -6,11 +6,11 @@
 -
 
 ---
-# Summary
--
+# 目標
+### 全員
+- NNの気持ちを知る
 
----
-![neuralnetworks](http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)
+---!http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png&size=auto
 
 ---
 # Level 1
@@ -50,8 +50,9 @@ Note:
     - back propagation: コスト関数が減る方向を効率的に求める計算法
 
 +++
-# Level 4
+# Level 4(RNN)
 ![rnn](http://www.asimovinstitute.org/wp-content/uploads/2016/09/rnn.png)
+Note:
 <!--
 - 今日の晩御飯を決める例
     - 系列を扱えるようになった
@@ -63,16 +64,23 @@ Note:
 -->
 
 +++
-# Level 5
 ![rnn-time](https://4.bp.blogspot.com/-4sNWGgBFLkE/WKcLzxWRa9I/AAAAAAAAiGQ/sqV16vvhGH09_QyZK5sIPJ8UcEyhekp5ACLcB/s1600/OldR%251C%251CNN.png)
+Note:
 <!--
 - 1本(?)を時間展開
 - 昨日の判断と今日食べたいものを入力としていることを言いたい
 -->
 
 +++
-# Level 6
+# Level 5(LSTM)
 ![lstm](http://www.asimovinstitute.org/wp-content/uploads/2016/09/lstm.png)
+Note:
+<!--
+- 記憶用のセルを導入
+    - LSTMセルは複数のセルが集まったもの
+- 素朴なRNNだと10系列分くらいしか記憶できない
+    - 購買消失
+-->
 
 ---
 # まとめ
