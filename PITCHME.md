@@ -10,12 +10,12 @@
 -
 
 ---
-?image=http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png&size=contain
+![neuralnetworks](http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)
 
 ---
 # Level 1
-?image=http://www.asimovinstitute.org/wp-content/uploads/2016/09/ff.png
-<!-- ![ffnn](http://www.asimovinstitute.org/wp-content/uploads/2016/09/ff.png) -->
+![ffnn](http://www.asimovinstitute.org/wp-content/uploads/2016/09/ff.png)
+Note:
 <!--
 - 今日の晩御飯を決める例 // 受けなさそうだけど
     - inputはラーメン/カレーライスが食べたいときそれぞれ1
