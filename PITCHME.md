@@ -4,19 +4,23 @@
 ---
 # About me
 - 名前: @Masashi_Ueda
-- 本業: プロデューサ |
+- 副業: 画像認識エンジニア
+    - 丁度[CVPR 2017 速報](https://www.slideshare.net/cvpaperchallenge/cvpr-2017-78294211)眺めてます
+
 +++?image=https://cdn.img-conv.gamerch.com/img.gamerch.com/imascg-slstage-wiki/1460213259001.jpg&size=contain
 
 +++
 # About me
 - 名前: @Masashi_Ueda
-- 本業: プロデューサ
-- 副業: 画像認識エンジニア |
+- 副業: 画像認識エンジニア
+- 本業: プロデューサ |
 
 ---
-# 目標
-### 全員
-- NNの気持ちを知る
+# アチーブメント(前半)
+1. FFNNの気持ちを知る
+1. NNの言葉を覚える
+1. RNNの気持ちを知る
+1. LSTMの気持ちを知る
 
 +++?image=http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png&size=contain
 
