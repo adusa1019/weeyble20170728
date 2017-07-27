@@ -3,18 +3,22 @@
 
 ---
 # About me
-- 
+-
+
 ---
 # Summary
-- 
+-
 
 ---
 # そもそも Machine Leaning って
-- 
--
+- 言葉を聞いたことがある
+- サンプルを動かしたことがある
+- うまくいかなくて苦労したことがある
 
 +++
 # そもそも Neural Network って
+- 言葉を聞いたことがある
+![neuralnetworks](http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)
 
 ---
 # Perceptron
