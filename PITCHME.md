@@ -26,7 +26,7 @@
 +++?image=http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png&size=contain
 
 ---
-# Level 0
+## Level 0
 - なんだかお腹が空いてきました…
     カレーもいいけどラーメンもいいかなぁ
     を例にNN的に今日のご飯を考えてみよう
@@ -35,7 +35,7 @@
     <img src="http://higedriver.com/image/hige_real.JPG" height="240px">
 
 +++
-# Level 1
+## Level 1
 ![ffnn](http://www.asimovinstitute.org/wp-content/uploads/2016/09/ff.png)
 Note:
 <!--
@@ -56,7 +56,7 @@ Note:
     - 同じ(ような)インターフェースを持つものを組み合わせて高度なことができるようになった！！
 -->
 +++
-# Level 2
+## Level 2
 - forward propagation
     - 入力を順に伝播させて出力を得る
     - 活性化関数: セルの出力形を決める関数
@@ -64,7 +64,6 @@ Note:
 <!-- 入力層/隠れ層/出力層/(結合)重み -->
 
 +++
-# Level 3
 - optimization: ネットワーク構造の最適化
     - コスト関数: NNの出力と正解の「違い」を測る物差し
     - 勾配降下法: コスト関数が減る方向に重みを更新する
@@ -73,7 +72,7 @@ Note:
     - back propagation: コスト関数が減る方向を効率的に求める計算法
 
 +++
-# Level 4(RNN)
+## Level 3(RNN)
 ![rnn](http://www.asimovinstitute.org/wp-content/uploads/2016/09/rnn.png)
 Note:
 <!--
@@ -96,7 +95,7 @@ Note:
 -->
 
 +++
-# Level 5(LSTM)
+## Level 4(LSTM)
 ![lstm](http://www.asimovinstitute.org/wp-content/uploads/2016/09/lstm.png)
 Note:
 <!--
