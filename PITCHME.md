@@ -3,18 +3,18 @@
 
 ---
 # About me
-- 名前: @Masashi_Ueda
-- 副業: 画像認識エンジニア
+- @Masashi_Ueda
+- 画像認識エンジニア
     - 丁度[CVPR 2017 速報](https://www.slideshare.net/cvpaperchallenge/cvpr-2017-78294211)眺めてます
 
 +++?image=https://cdn.img-conv.gamerch.com/img.gamerch.com/imascg-slstage-wiki/1460213259001.jpg&size=contain
 
 +++
 # About me
-- 名前: @Masashi_Ueda
-- 副業: 画像認識エンジニア
-- 本業: プロデューサ |
-
+- @Masashi_Ueda
+- 画像認識エンジニア
+- 本業: 346P |
+    - 明日から福岡
 ---
 # アチーブメント(前半)
 1. FFNNの気持ちを知る
@@ -49,10 +49,10 @@ Note:
     - 活性化関数: セルの出力形を決める関数
 Note:
 <!--
-    - 入力層
-    - 隠れ層
-    - 出力層
-    - (結合)重み
+- 入力層
+- 隠れ層
+- 出力層
+- (結合)重み
 -->
 
 +++
