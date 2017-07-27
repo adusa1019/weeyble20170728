@@ -19,19 +19,26 @@
 ---
 # アチーブメント(前)
 1. FFNNの気持ちを知る
-1. NNの言葉を覚える
+1. NNの言葉を知る
 1. RNNの気持ちを知る
 1. LSTMの気持ちを知る
 
 +++?image=http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png&size=contain
 
 ---
+# Level 0
+- なんだかお腹が空いてきました…
+    カレーもいいけどラーメンもいいかなぁ
+    を例に考えてみよう
+- この人は関係ありますん
+    ![ヒゲドライバー](http://higedriver.com/image/hige_real.JPG)
+
 # Level 1
 ![ffnn](http://www.asimovinstitute.org/wp-content/uploads/2016/09/ff.png)
 Note:
 <!--
 - 今日の晩御飯を決める例 // 受けなさそうだけど
-    - inputはラーメン/カレーライスが食べたいときそれぞれ1
+    - inputはカレー/ラーメンが食べたいときそれぞれ1
     - output層は重みの大きい方を出力
     - 重みという言葉をどこかで言う
     - peprceptronの場合
@@ -42,6 +49,8 @@ Note:
     - MLPの場合
         - 増えた層は金額・栄養バランスとしておく
         - カレー食べたいけどお金ないからラーメンといった判断ができるようになる
+        - 実際は事前にどういう意味合いになるかはわからない
+            - 学習次第
     - 同じ(ような)インターフェースを持つものを組み合わせて高度なことができるようになった！！
 -->
 +++
@@ -95,15 +104,58 @@ Note:
 -->
 
 ---
+# アチーブメント(後)
+1. 学習済みの結果を見て笑う
+1. サンプルを動かしてみる
+1. パラメータチューニング等を頑張ってみる
+
+---
+# Setup chainer
+```
+pip install chiner
+```
+
++++
+# Get sample codes
+```
+git clone https://github.com/chainer/chainer
+```
+
++++
+# Run sample coe
+```
+cd examples/ptb
+python train_ptb.py
+```
+- GTX-1080環境で6時間くらい
+
++++
+# Generate sentence
+```
+python gentxt.py -m model.npz -p <hoge>
+```
+
+---
+# 振り返り
+- RNNの雰囲気を話した
+- chainerのサンプルを動かしてみた
+
++++
 # アチーブメント(前)
 1. FFNNの気持ちを知る
-1. NNの言葉を覚える
+1. NNの言葉を知る
 1. RNNの気持ちを知る
 1. LSTMの気持ちを知る
 
-
----
-# まとめ
++++
+# アチーブメント(後)
+1. 学習済みの結果を見て笑う
+1. サンプルを動かしてみる
+1. パラメータチューニング等を頑張ってみる
 
 +++
-# なんかかけ
+# 今日言わなかったこと
+- back propagation の詳細
+    - 特にRNN
+- LSTMの詳細
+-
