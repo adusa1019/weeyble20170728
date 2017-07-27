@@ -10,7 +10,7 @@
 ### 全員
 - NNの気持ちを知る
 
----?http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png&size=auto
+---?image=http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png&size=auto
 
 ---
 # Level 1
