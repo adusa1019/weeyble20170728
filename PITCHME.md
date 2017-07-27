@@ -10,11 +10,11 @@
 -
 
 ---
----?image=http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png&size=contain
+?image=http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png&size=contain
 
 ---
 # Level 1
----?image=http://www.asimovinstitute.org/wp-content/uploads/2016/09/ff.png
+?image=http://www.asimovinstitute.org/wp-content/uploads/2016/09/ff.png
 <!-- ![ffnn](http://www.asimovinstitute.org/wp-content/uploads/2016/09/ff.png) -->
 <!--
 - 今日の晩御飯を決める例 // 受けなさそうだけど
