@@ -31,7 +31,7 @@
     カレーもいいけどラーメンもいいかなぁ
     を例にNN的に今日のご飯を考えてみよう
 - この人は関係ありますん
-    ![ヒゲドライバー](http://higedriver.com/image/hige_real.JPG)
+    <img src="http://higedriver.com/image/hige_real.JPG" width="320px">
 
 +++
 # Level 1
