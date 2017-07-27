@@ -156,7 +156,7 @@ python gentxt.py -m model.npz -p <hoge>
 1. パラメータチューニング等を頑張ってみる
 
 +++
-# 今日言わなかったこと
+# 言わなかったこと
 - RNN の詳細
     - 分類
     - back propagation etc...
