@@ -159,14 +159,14 @@ python gentxt.py -m model.npz -p <hoge>
 # 今日言わなかったこと
 - RNN の詳細
     - 分類
-    - back propagation
-    - etc...
+    - back propagation etc...
     - [こちら](http://qiita.com/icoxfog417/items/2791ee878deee0d0fd9c)が詳しい
 - LSTMの詳細
     - [こちら](https://www.slideshare.net/beam2d/pfi-seminar-20141030rnn)が詳しい
     - [こちら](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)はさらに詳しい
 - 自然言語に適用するにあたっての工夫
 
++++
 # 参照したもの
 - 深層学習(紫の方)
     - 6, 7 章
