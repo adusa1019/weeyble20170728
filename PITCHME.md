@@ -10,24 +10,29 @@
 -
 
 ---
-# そもそも Machine Leaning って
-- 言葉を聞いたことがある
-- サンプルを動かしたことがある
-- うまくいかなくて苦労したことがある
-
-+++
-# そもそも Neural Network って
-- 言葉を聞いたことがある
 ![neuralnetworks](http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)
 
 ---
-# Perceptron
+# Level 1
+- perceptron
+- Feedforward Neural Network
+![neuralnetworks](http://www.asimovinstitute.org/wp-content/uploads/2016/09/ff.png)
 
 +++
-# Feedforward Neural Network
+# Level 2
+- forward propagation
 
 +++
-# Recurrent Neural Network
+# Level 3
+- optimization
+- forward propagation
+
++++
+# Level 4
+- Recurrent Neural Network
+
++++
+# Level 5
 - LSTM
 
 ---
