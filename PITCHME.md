@@ -123,19 +123,27 @@ pip install chiner
 git clone https://github.com/chainer/chainer
 ```
 
+# Get pretrain model
+```
+git clone https://github.com/adusa1019/weeyble20170728
+```
+
 +++
-# Run sample code
+# Generate sentence
 ```
 cd chainer/examples/ptb
+python gentxt.py -m ~/weeyble20170728/model.npz -p <hoge>
+```
+
++++
+# Train yourself
+```
 python train_ptb.py
 ```
 - GTX-1080環境で6時間くらい
 
 +++
-# Generate sentence
-```
-python gentxt.py -m model.npz -p <hoge>
-```
+
 
 ---
 # 振り返り
