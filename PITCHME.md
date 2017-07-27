@@ -3,7 +3,15 @@
 
 ---
 # About me
--
+- 名前: @Masashi_Ueda
+- 本業: プロデューサ |
++++?image=https://cdn.img-conv.gamerch.com/img.gamerch.com/imascg-slstage-wiki/1460213259001.jpg&size=contain
+
++++
+# About me
+- 名前: @Masashi_Ueda
+- 本業: プロデューサ
+- 副業: 画像認識エンジニア |
 
 ---
 # 目標
@@ -34,11 +42,14 @@ Note:
 # Level 2
 - forward propagation
     - 入力層から出力層に伝播させていく
+    - 活性化関数: セルの出力形を決める関数
+Note:
+<!--
     - 入力層
     - 隠れ層
     - 出力層
     - (結合)重み
-    - 活性化関数: セルの出力形を決める関数
+-->
 
 +++
 # Level 3
