@@ -33,6 +33,7 @@
 - この人は関係ありますん
     ![ヒゲドライバー](http://higedriver.com/image/hige_real.JPG)
 
++++
 # Level 1
 ![ffnn](http://www.asimovinstitute.org/wp-content/uploads/2016/09/ff.png)
 Note:
@@ -85,6 +86,7 @@ Note:
 -->
 
 +++
+### 再帰部分を展開
 ![rnn-time](https://4.bp.blogspot.com/-4sNWGgBFLkE/WKcLzxWRa9I/AAAAAAAAiGQ/sqV16vvhGH09_QyZK5sIPJ8UcEyhekp5ACLcB/s1600/OldR%251C%251CNN.png)
 Note:
 <!--
@@ -124,7 +126,7 @@ git clone https://github.com/chainer/chainer
 +++
 # Run sample coe
 ```
-cd examples/ptb
+cd chainer/examples/ptb
 python train_ptb.py
 ```
 - GTX-1080環境で6時間くらい
@@ -158,4 +160,4 @@ python gentxt.py -m model.npz -p <hoge>
 - back propagation の詳細
     - 特にRNN
 - LSTMの詳細
--
+
